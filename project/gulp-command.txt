@@ -1,0 +1,22 @@
+npm init
+
+npm install gulp -g
+
+
+npm install gulp --save-dev
+
+npm i gulp-sass --save-dev
+
+npm i gulp-watch --save-dev
+
+npm i gulp-clean-css --save-dev
+
+npm i gulp-autoprefixer --save-dev
+
+
+
+npm i -D gulp-purgecss
+
+
+//----- for bootstrap--------
+npm install bootstrap

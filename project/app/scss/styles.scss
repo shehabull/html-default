@@ -1,0 +1,30 @@
+// vendors scss
+// --------------------------------------------------
+//@import 'vendors/_vendors';
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// helpers scss
+// --------------------------------------------------
+@import 'helpers/_mixins';
+@import 'helpers/_functions';
+@import 'helpers/_variables';
+
+// base scss
+// --------------------------------------------------
+@import 'base/_reset';
+
+// components scss
+// --------------------------------------------------
+@import 'components/_buttons';
+@import 'components/_navigation';
+
+// Layout scss
+// --------------------------------------------------
+@import 'layout/_header';
+@import 'layout/_footer';
+@import 'layout/_sidebar';
+@import 'layout/_utilities';
+
+// page scss
+// --------------------------------------------------
+@import 'pages/_home';
